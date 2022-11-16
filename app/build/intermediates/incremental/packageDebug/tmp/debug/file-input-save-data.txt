@@ -1,0 +1,11 @@
+#Internal package file, do not edit.
+#Wed Nov 16 11:23:49 CST 2022
+0.base=/Users/zhourj/qz/log/MediaCodecEncodeH264/app/build/intermediates/dex/debug/mergeExtDexDebug/out
+0.path=classes.dex
+1.baseType=DIRECTORY
+count=2
+1.path=classes.dex
+0.baseType=DIRECTORY
+1.set=DEX
+1.base=/Users/zhourj/qz/log/MediaCodecEncodeH264/app/build/intermediates/dex/debug/mergeProjectDexDebug/out
+0.set=DEX

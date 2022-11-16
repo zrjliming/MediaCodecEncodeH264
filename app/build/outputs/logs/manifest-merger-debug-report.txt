@@ -1,0 +1,160 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/zhourj/qz/log/MediaCodecEncodeH264/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /Users/zhourj/qz/log/MediaCodecEncodeH264/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /Users/zhourj/qz/log/MediaCodecEncodeH264/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /Users/zhourj/qz/log/MediaCodecEncodeH264/app/src/main/AndroidManifest.xml:2:1-26:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/zhourj/.gradle/caches/transforms-2/files-2.1/aa6811e7c32286ca71a6ef9e0525aeeb/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/zhourj/.gradle/caches/transforms-2/files-2.1/deec0b4567b5ba2a2d31bf53a031a994/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/zhourj/.gradle/caches/transforms-2/files-2.1/ae5eea2979d6c4eca53cfc62bc90cd0a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/zhourj/.gradle/caches/transforms-2/files-2.1/11a9c262dd43d7fc43aa31f2922b8462/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/zhourj/.gradle/caches/transforms-2/files-2.1/35bf0662ce0a75ec188cc3aae04e580f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/zhourj/.gradle/caches/transforms-2/files-2.1/9d8326e5a4e4220253e926b9a6593338/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/zhourj/.gradle/caches/transforms-2/files-2.1/98cce2545097ec336c6d2cc73fa3413e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/zhourj/.gradle/caches/transforms-2/files-2.1/05e533aeb64ba3710ec7adf353ff10b5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/zhourj/.gradle/caches/transforms-2/files-2.1/4fae98f451a03e9880402905bfd30c89/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/zhourj/.gradle/caches/transforms-2/files-2.1/9bfd5c07be693b4424f0dc1daea6fe8e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/zhourj/.gradle/caches/transforms-2/files-2.1/c528e7117f05000f0012dbec51b12806/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/zhourj/.gradle/caches/transforms-2/files-2.1/490b739363d906d5cbd3a20c6ff6a9d9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/zhourj/.gradle/caches/transforms-2/files-2.1/0e8855b5ebf5e32ac90b0a67885d9143/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/zhourj/.gradle/caches/transforms-2/files-2.1/a61085cfe6596c55230e5ee5f4b8aff9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/zhourj/.gradle/caches/transforms-2/files-2.1/93fc414576a93629aafea31125cf9104/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/zhourj/.gradle/caches/transforms-2/files-2.1/b6c402863002877c6eeb58a4d643a707/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/zhourj/.gradle/caches/transforms-2/files-2.1/f6fa1a4a5e97c2ca656472edd1d18f35/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/zhourj/.gradle/caches/transforms-2/files-2.1/795808b3d0174ffb3d9987d6417b8cdd/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/zhourj/.gradle/caches/transforms-2/files-2.1/723259656c4526d07fdcfb4f0365fd79/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/zhourj/.gradle/caches/transforms-2/files-2.1/e7c7303085e9b651117d379474eb191d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/zhourj/.gradle/caches/transforms-2/files-2.1/f6d9449ebc932103c1ca7daccf3dcc90/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/zhourj/.gradle/caches/transforms-2/files-2.1/3be0103358e6ce3fe5fdc07b3886e197/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/zhourj/.gradle/caches/transforms-2/files-2.1/26a64a4521d8b28cf38422090aaf0925/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/zhourj/.gradle/caches/transforms-2/files-2.1/4a6cced5eeddff6db76199c10ca021fb/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/zhourj/.gradle/caches/transforms-2/files-2.1/b493cef63c70bd0b43d0e6cd7204e199/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/zhourj/.gradle/caches/transforms-2/files-2.1/cdafa605b5d11775bc6b2242c93e7967/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/zhourj/.gradle/caches/transforms-2/files-2.1/4db6d30a1c8e1e7b805a36bb06bb5556/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/zhourj/qz/log/MediaCodecEncodeH264/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /Users/zhourj/qz/log/MediaCodecEncodeH264/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /Users/zhourj/qz/log/MediaCodecEncodeH264/app/src/main/AndroidManifest.xml:2:1-26:12
+	package
+		ADDED from /Users/zhourj/qz/log/MediaCodecEncodeH264/app/src/main/AndroidManifest.xml:3:5-43
+		INJECTED from /Users/zhourj/qz/log/MediaCodecEncodeH264/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/zhourj/qz/log/MediaCodecEncodeH264/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/zhourj/qz/log/MediaCodecEncodeH264/app/src/main/AndroidManifest.xml:5:5-30
+		INJECTED from /Users/zhourj/qz/log/MediaCodecEncodeH264/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/zhourj/qz/log/MediaCodecEncodeH264/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/zhourj/qz/log/MediaCodecEncodeH264/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from /Users/zhourj/qz/log/MediaCodecEncodeH264/app/src/main/AndroidManifest.xml:4:5-28
+		INJECTED from /Users/zhourj/qz/log/MediaCodecEncodeH264/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/zhourj/qz/log/MediaCodecEncodeH264/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/zhourj/qz/log/MediaCodecEncodeH264/app/src/main/AndroidManifest.xml:7:5-80
+	android:name
+		ADDED from /Users/zhourj/qz/log/MediaCodecEncodeH264/app/src/main/AndroidManifest.xml:7:22-78
+uses-permission#android.permission.CAMERA
+ADDED from /Users/zhourj/qz/log/MediaCodecEncodeH264/app/src/main/AndroidManifest.xml:8:5-65
+	android:name
+		ADDED from /Users/zhourj/qz/log/MediaCodecEncodeH264/app/src/main/AndroidManifest.xml:8:22-62
+application
+ADDED from /Users/zhourj/qz/log/MediaCodecEncodeH264/app/src/main/AndroidManifest.xml:10:5-24:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/zhourj/.gradle/caches/transforms-2/files-2.1/deec0b4567b5ba2a2d31bf53a031a994/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/zhourj/.gradle/caches/transforms-2/files-2.1/deec0b4567b5ba2a2d31bf53a031a994/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /Users/zhourj/.gradle/caches/transforms-2/files-2.1/b6c402863002877c6eeb58a4d643a707/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/zhourj/.gradle/caches/transforms-2/files-2.1/b6c402863002877c6eeb58a4d643a707/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/zhourj/.gradle/caches/transforms-2/files-2.1/f6fa1a4a5e97c2ca656472edd1d18f35/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/zhourj/.gradle/caches/transforms-2/files-2.1/f6fa1a4a5e97c2ca656472edd1d18f35/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/zhourj/.gradle/caches/transforms-2/files-2.1/b6c402863002877c6eeb58a4d643a707/AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from /Users/zhourj/qz/log/MediaCodecEncodeH264/app/src/main/AndroidManifest.xml:13:9-41
+	android:icon
+		ADDED from /Users/zhourj/qz/log/MediaCodecEncodeH264/app/src/main/AndroidManifest.xml:12:9-45
+	android:allowBackup
+		ADDED from /Users/zhourj/qz/log/MediaCodecEncodeH264/app/src/main/AndroidManifest.xml:11:9-35
+	android:theme
+		ADDED from /Users/zhourj/qz/log/MediaCodecEncodeH264/app/src/main/AndroidManifest.xml:14:9-40
+activity#com.example.mediacodecencode.MainActivity
+ADDED from /Users/zhourj/qz/log/MediaCodecEncodeH264/app/src/main/AndroidManifest.xml:15:9-23:20
+	android:label
+		ADDED from /Users/zhourj/qz/log/MediaCodecEncodeH264/app/src/main/AndroidManifest.xml:17:13-45
+	android:name
+		ADDED from /Users/zhourj/qz/log/MediaCodecEncodeH264/app/src/main/AndroidManifest.xml:16:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/zhourj/qz/log/MediaCodecEncodeH264/app/src/main/AndroidManifest.xml:18:13-22:29
+action#android.intent.action.MAIN
+ADDED from /Users/zhourj/qz/log/MediaCodecEncodeH264/app/src/main/AndroidManifest.xml:19:17-69
+	android:name
+		ADDED from /Users/zhourj/qz/log/MediaCodecEncodeH264/app/src/main/AndroidManifest.xml:19:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/zhourj/qz/log/MediaCodecEncodeH264/app/src/main/AndroidManifest.xml:21:17-77
+	android:name
+		ADDED from /Users/zhourj/qz/log/MediaCodecEncodeH264/app/src/main/AndroidManifest.xml:21:27-74
+uses-sdk
+INJECTED from /Users/zhourj/qz/log/MediaCodecEncodeH264/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/zhourj/qz/log/MediaCodecEncodeH264/app/src/main/AndroidManifest.xml
+INJECTED from /Users/zhourj/qz/log/MediaCodecEncodeH264/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/zhourj/.gradle/caches/transforms-2/files-2.1/aa6811e7c32286ca71a6ef9e0525aeeb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/zhourj/.gradle/caches/transforms-2/files-2.1/aa6811e7c32286ca71a6ef9e0525aeeb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/zhourj/.gradle/caches/transforms-2/files-2.1/deec0b4567b5ba2a2d31bf53a031a994/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/zhourj/.gradle/caches/transforms-2/files-2.1/deec0b4567b5ba2a2d31bf53a031a994/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/zhourj/.gradle/caches/transforms-2/files-2.1/ae5eea2979d6c4eca53cfc62bc90cd0a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/zhourj/.gradle/caches/transforms-2/files-2.1/ae5eea2979d6c4eca53cfc62bc90cd0a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/zhourj/.gradle/caches/transforms-2/files-2.1/11a9c262dd43d7fc43aa31f2922b8462/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/zhourj/.gradle/caches/transforms-2/files-2.1/11a9c262dd43d7fc43aa31f2922b8462/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/zhourj/.gradle/caches/transforms-2/files-2.1/35bf0662ce0a75ec188cc3aae04e580f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/zhourj/.gradle/caches/transforms-2/files-2.1/35bf0662ce0a75ec188cc3aae04e580f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/zhourj/.gradle/caches/transforms-2/files-2.1/9d8326e5a4e4220253e926b9a6593338/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/zhourj/.gradle/caches/transforms-2/files-2.1/9d8326e5a4e4220253e926b9a6593338/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/zhourj/.gradle/caches/transforms-2/files-2.1/98cce2545097ec336c6d2cc73fa3413e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/zhourj/.gradle/caches/transforms-2/files-2.1/98cce2545097ec336c6d2cc73fa3413e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/zhourj/.gradle/caches/transforms-2/files-2.1/05e533aeb64ba3710ec7adf353ff10b5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/zhourj/.gradle/caches/transforms-2/files-2.1/05e533aeb64ba3710ec7adf353ff10b5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/zhourj/.gradle/caches/transforms-2/files-2.1/4fae98f451a03e9880402905bfd30c89/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/zhourj/.gradle/caches/transforms-2/files-2.1/4fae98f451a03e9880402905bfd30c89/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/zhourj/.gradle/caches/transforms-2/files-2.1/9bfd5c07be693b4424f0dc1daea6fe8e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/zhourj/.gradle/caches/transforms-2/files-2.1/9bfd5c07be693b4424f0dc1daea6fe8e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/zhourj/.gradle/caches/transforms-2/files-2.1/c528e7117f05000f0012dbec51b12806/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/zhourj/.gradle/caches/transforms-2/files-2.1/c528e7117f05000f0012dbec51b12806/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/zhourj/.gradle/caches/transforms-2/files-2.1/490b739363d906d5cbd3a20c6ff6a9d9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/zhourj/.gradle/caches/transforms-2/files-2.1/490b739363d906d5cbd3a20c6ff6a9d9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/zhourj/.gradle/caches/transforms-2/files-2.1/0e8855b5ebf5e32ac90b0a67885d9143/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/zhourj/.gradle/caches/transforms-2/files-2.1/0e8855b5ebf5e32ac90b0a67885d9143/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/zhourj/.gradle/caches/transforms-2/files-2.1/a61085cfe6596c55230e5ee5f4b8aff9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/zhourj/.gradle/caches/transforms-2/files-2.1/a61085cfe6596c55230e5ee5f4b8aff9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/zhourj/.gradle/caches/transforms-2/files-2.1/93fc414576a93629aafea31125cf9104/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/zhourj/.gradle/caches/transforms-2/files-2.1/93fc414576a93629aafea31125cf9104/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/zhourj/.gradle/caches/transforms-2/files-2.1/b6c402863002877c6eeb58a4d643a707/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/zhourj/.gradle/caches/transforms-2/files-2.1/b6c402863002877c6eeb58a4d643a707/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/zhourj/.gradle/caches/transforms-2/files-2.1/f6fa1a4a5e97c2ca656472edd1d18f35/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/zhourj/.gradle/caches/transforms-2/files-2.1/f6fa1a4a5e97c2ca656472edd1d18f35/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/zhourj/.gradle/caches/transforms-2/files-2.1/795808b3d0174ffb3d9987d6417b8cdd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/zhourj/.gradle/caches/transforms-2/files-2.1/795808b3d0174ffb3d9987d6417b8cdd/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/zhourj/.gradle/caches/transforms-2/files-2.1/723259656c4526d07fdcfb4f0365fd79/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/zhourj/.gradle/caches/transforms-2/files-2.1/723259656c4526d07fdcfb4f0365fd79/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/zhourj/.gradle/caches/transforms-2/files-2.1/e7c7303085e9b651117d379474eb191d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/zhourj/.gradle/caches/transforms-2/files-2.1/e7c7303085e9b651117d379474eb191d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/zhourj/.gradle/caches/transforms-2/files-2.1/f6d9449ebc932103c1ca7daccf3dcc90/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/zhourj/.gradle/caches/transforms-2/files-2.1/f6d9449ebc932103c1ca7daccf3dcc90/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/zhourj/.gradle/caches/transforms-2/files-2.1/3be0103358e6ce3fe5fdc07b3886e197/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/zhourj/.gradle/caches/transforms-2/files-2.1/3be0103358e6ce3fe5fdc07b3886e197/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/zhourj/.gradle/caches/transforms-2/files-2.1/26a64a4521d8b28cf38422090aaf0925/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/zhourj/.gradle/caches/transforms-2/files-2.1/26a64a4521d8b28cf38422090aaf0925/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/zhourj/.gradle/caches/transforms-2/files-2.1/4a6cced5eeddff6db76199c10ca021fb/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/zhourj/.gradle/caches/transforms-2/files-2.1/4a6cced5eeddff6db76199c10ca021fb/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/zhourj/.gradle/caches/transforms-2/files-2.1/b493cef63c70bd0b43d0e6cd7204e199/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/zhourj/.gradle/caches/transforms-2/files-2.1/b493cef63c70bd0b43d0e6cd7204e199/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/zhourj/.gradle/caches/transforms-2/files-2.1/cdafa605b5d11775bc6b2242c93e7967/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/zhourj/.gradle/caches/transforms-2/files-2.1/cdafa605b5d11775bc6b2242c93e7967/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/zhourj/.gradle/caches/transforms-2/files-2.1/4db6d30a1c8e1e7b805a36bb06bb5556/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/zhourj/.gradle/caches/transforms-2/files-2.1/4db6d30a1c8e1e7b805a36bb06bb5556/AndroidManifest.xml:20:5-44
+INJECTED from /Users/zhourj/qz/log/MediaCodecEncodeH264/app/src/main/AndroidManifest.xml
+INJECTED from /Users/zhourj/qz/log/MediaCodecEncodeH264/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/zhourj/qz/log/MediaCodecEncodeH264/app/src/main/AndroidManifest.xml
+		ADDED from /Users/zhourj/qz/log/MediaCodecEncodeH264/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/zhourj/qz/log/MediaCodecEncodeH264/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/zhourj/qz/log/MediaCodecEncodeH264/app/src/main/AndroidManifest.xml
+		ADDED from /Users/zhourj/qz/log/MediaCodecEncodeH264/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/zhourj/qz/log/MediaCodecEncodeH264/app/src/main/AndroidManifest.xml

@@ -1,0 +1,7 @@
+#Wed Nov 16 11:28:43 CST 2022
+base.0=/Users/zhourj/qz/log/MediaCodecEncodeH264/app/build/intermediates/dex/debug/mergeExtDexDebug/out
+path.1=classes.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=/Users/zhourj/qz/log/MediaCodecEncodeH264/app/build/intermediates/dex/debug/mergeProjectDexDebug/out
